@@ -1,0 +1,99 @@
+.Kategories-сustom{
+    width: 22%;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 500; font-size: 18px; 
+    line-height: 144%; 
+    letter-spacing: 0.03em; 
+    color: #69b99d; 
+    background-color: #f8f9fe; 
+    padding: 12px 24px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    margin-bottom: 32px;
+     -webkit-box-shadow: 1px 4px 12px 3px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 1px 4px 12px 3px rgba(34, 60, 80, 0.2);
+  box-shadow: 1px 4px 12px 3px rgba(34, 60, 80, 0.2);
+}
+.Customer{
+    margin: 0;
+    margin-top: 77px;
+    padding: 0;
+}
+.h2-customer{
+    margin: 0;
+}
+.learn-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+.list-customer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+.element-customer{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #DEDCDA;
+    width: 324px;
+    padding: 24px;
+}
+.text-list-customer-1{
+    width: 284px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 156%;
+    letter-spacing: 0em;
+    color: #1f2744;
+    margin: 0;
+    margin-bottom: 24px;
+    margin-top: 24px;
+
+}
+.text-list-customer-2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0em;
+    color: #1f2744;
+    width: 310px;
+    margin: 0;
+    margin-bottom: 24px;
+
+}
+.bio-wrapper{
+    display: flex;
+    gap: 10px;
+
+}
+.bio2{
+    display: flex;
+    flex-direction: column;
+}
+.bio-p1{
+    margin: 0;
+  font-family: "Nunito Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 163%;
+    letter-spacing: 0.03em;
+    color: #0b2e29;
+}
+.bio-p2{
+    margin: 0;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 183%;
+    letter-spacing: 0.04em;
+    color: #767676;
+    }
+.Customer-wrapper{
+    padding-bottom: 77px;
+}
